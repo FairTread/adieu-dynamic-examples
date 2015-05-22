@@ -1,0 +1,37 @@
+{
+  "name": "adieu-dynamic-examples",
+  "version": "0.1.0",
+  "description": "Example Rad creation apps for Adieu.io",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "adieu-api": "^0.1.1",
+    "async": "^1.0.0",
+    "instagram-node": "^0.5.7",
+    "lodash": "^3.9.1",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FairTread/adieu-dynamic-examples.git"
+  },
+  "keywords": [
+    "adieu",
+    "rads",
+    "adblock",
+    "advertising",
+    "monetization"
+  ],
+  "author": "Matt Mankins <mankins@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FairTread/adieu-dynamic-examples/issues"
+  },
+  "homepage": "https://github.com/FairTread/adieu-dynamic-examples#readme"
+}
