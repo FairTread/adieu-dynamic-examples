@@ -77,4 +77,4 @@ For simpler applications, a single PNG may be uploaded as well that will be crop
 
 ## For more help
 
-For more help, write us at either @adieuio or hello@adieu.io.
+For more help, write us at either [@adieuio](https://www.twitter.com/adieuio) or hello@adieu.io.
