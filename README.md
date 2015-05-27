@@ -66,6 +66,7 @@ Adieu lets To see how to use the Adieu Api, have a look at the example directory
 
 ```
 
+Note: you can lookup Instagram usernames to userids at http://jelled.com/instagram/lookup-user-id.
 
 ### Uploading a single PNG vs a Templated PNG
 
